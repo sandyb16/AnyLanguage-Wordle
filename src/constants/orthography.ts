@@ -48,6 +48,7 @@ export const ORTHOGRAPHY = [
   'k',
   'h',
   '̓'
+  ''',
 ]
 
 if (CONFIG.normalization) {
