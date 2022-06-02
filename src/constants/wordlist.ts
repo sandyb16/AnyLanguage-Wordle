@@ -16,14 +16,13 @@ export const WORDS = [
   "sesq̓wez̓,
   "sisqa7',
   'mitsaq',
-  "q'aylec",
-  "q'ilhil",
+  "q̓aylec",
+  "q̓ilhil",
   "lawan'"
   "lhpal̓s"
-  "da'mas",
   'qaoqna7',
   'gwelin',
-  "sq'waxt",
+  "sq̓waxt",
   
 ]
 
