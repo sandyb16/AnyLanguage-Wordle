@@ -12,7 +12,7 @@ export const WORDS = [
   "hawint",
   'sqaxa7',
   'keckec',
-  "sisqa7',
+  'sisqa7',
   'mitsaq',
   "q̓aylec",
   "q̓ilhil",
