@@ -41,6 +41,13 @@ export const ORTHOGRAPHY = [
   'l',
   'n',
   'w',
+  't',
+  'p',
+  'y',
+  'm',
+  'k',
+  'h',
+  
 ]
 
 if (CONFIG.normalization) {
