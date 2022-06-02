@@ -47,7 +47,6 @@ export const ORTHOGRAPHY = [
   'm',
   'k',
   'h',
-  '̓'
   "'",
 ]
 
