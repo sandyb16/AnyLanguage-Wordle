@@ -38,6 +38,9 @@ export const ORTHOGRAPHY = [
   "g̓w",
   "q̓",
   "q̓w",
+  'l',
+  'n',
+  'w',
 ]
 
 if (CONFIG.normalization) {
