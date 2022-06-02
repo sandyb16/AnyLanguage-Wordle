@@ -1,11 +1,8 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'pala7',
-  "an̓was",
   'kalhas',
   "sp̓vsqs",
-  "t̓ena7",
   "lhpal̓s",
   'musmus',
   'mixalh',
